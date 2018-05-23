@@ -1,0 +1,1782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/docs/variables.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.700Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/index.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.700Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/docs/writing.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.700Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/docs/troubleshooting.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.699Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/docs/themes.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.699Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/docs/templates.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.699Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/docs/setup.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.698Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/docs/tag-plugins.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.698Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/docs/server.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.697Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/docs/migration.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.697Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/docs/plugins.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.697Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/docs/permalinks.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.697Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/docs/helpers.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.696Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/docs/internationalization.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.696Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/docs/index.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.696Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/docs/data-files.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.695Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/docs/deployment.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.695Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/docs/front-matter.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.695Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/docs/generating.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.695Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/docs/contributing.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.694Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/docs/configuration.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.694Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/docs/asset-folders.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.693Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/docs/commands.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.693Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/api/themes.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.692Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/api/tag.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.692Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/api/router.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.691Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/api/rendering.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.691Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/api/renderer.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.691Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/api/scaffolds.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.691Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/api/migrator.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.690Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/api/processor.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.690Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/api/posts.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.690Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/api/locals.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.689Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/api/index.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.689Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/api/generator.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.689Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/api/helper.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.689Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/api/filter.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.688Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/api/events.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.688Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/api/console.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.688Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/api/deployer.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.688Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/index.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.687Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-tw/api/box.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.687Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/docs/writing.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.687Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/docs/variables.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.686Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/docs/troubleshooting.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.686Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/docs/themes.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.686Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/docs/tag-plugins.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.685Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/docs/templates.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.685Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/docs/setup.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.685Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/docs/server.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.685Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/docs/plugins.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.684Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/docs/migration.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.684Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/docs/permalinks.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.684Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/docs/index.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.683Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/docs/internationalization.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.683Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/docs/helpers.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.682Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/docs/generating.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.682Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/docs/data-files.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.681Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/docs/deployment.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.681Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/docs/front-matter.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.681Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/docs/configuration.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.680Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/docs/contributing.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.680Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/docs/commands.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.677Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/docs/asset-folders.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.676Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/api/themes.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.676Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/api/tag.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.676Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/api/router.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.675Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/api/rendering.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.675Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/api/scaffolds.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.675Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/api/processor.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.674Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/api/posts.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.674Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/api/renderer.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.674Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/api/locals.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.673Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/api/index.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.673Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/api/migrator.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.673Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/api/helper.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.672Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/api/generator.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.672Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/api/filter.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.672Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/api/console.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.671Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/api/deployer.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.671Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/api/events.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.671Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/zh-cn/api/box.html</loc>
+    
+    <lastmod>2018-05-22T23:55:54.670Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/themes/index.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.554Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/index.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.554Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/docs/writing.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.554Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/docs/themes.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.553Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/docs/troubleshooting.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.553Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/docs/variables.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.553Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/docs/tag-plugins.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.552Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/docs/templates.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.552Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/docs/server.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.551Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/docs/setup.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.551Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/docs/plugins.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.550Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/docs/permalinks.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.550Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/docs/internationalization.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.549Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/docs/migration.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.549Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/docs/index.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.548Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/docs/helpers.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.548Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/docs/front-matter.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.547Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/docs/generating.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.547Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/docs/data-files.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.546Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/docs/deployment.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.546Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/docs/contributing.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.545Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/docs/configuration.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.544Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/api/themes.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.543Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/docs/asset-folders.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.543Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/docs/commands.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.543Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/api/tag.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.541Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/api/scaffolds.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.540Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/api/router.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.540Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/api/rendering.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.539Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/api/renderer.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.538Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/api/processor.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.538Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/api/posts.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.537Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/api/migrator.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.537Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/api/index.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.536Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/api/helper.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.536Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/api/locals.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.536Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/api/filter.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.535Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/api/generator.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.535Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/api/events.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.535Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/api/deployer.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.534Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/api/box.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.534Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ru/api/console.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.534Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/docs/variables.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.533Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/docs/writing.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.533Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/index.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.533Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/docs/templates.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.532Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/docs/themes.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.532Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/docs/troubleshooting.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.532Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/docs/tag-plugins.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.531Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/docs/server.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.531Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/docs/setup.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.531Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/docs/permalinks.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.530Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/docs/migration.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.530Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/docs/plugins.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.530Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/docs/internationalization.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.529Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/docs/index.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.527Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/docs/helpers.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.527Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/docs/front-matter.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.526Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/docs/deployment.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.526Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/docs/generating.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.526Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/docs/configuration.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.525Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/docs/data-files.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.525Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/docs/contributing.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.525Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/docs/commands.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.524Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/docs/asset-folders.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.524Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/api/themes.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.523Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/api/tag.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.523Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/api/rendering.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.522Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/api/router.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.522Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/api/scaffolds.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.522Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/api/migrator.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.521Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/api/locals.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.521Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/api/renderer.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.521Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/api/processor.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.521Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/api/posts.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.521Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/api/generator.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.520Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/api/events.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.520Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/api/filter.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.520Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/api/helper.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.520Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/api/index.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.520Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/api/deployer.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.519Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/api/console.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.519Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/pt-br/api/box.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.519Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/index.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.518Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/plugins/index.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.518Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/docs/troubleshooting.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.517Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/docs/variables.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.517Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/docs/writing.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.517Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/docs/themes.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.516Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/docs/templates.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.516Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/docs/tag-plugins.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.516Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/docs/server.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.515Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/docs/permalinks.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.515Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/docs/setup.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.515Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/docs/plugins.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.515Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/docs/migration.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.514Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/docs/internationalization.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.514Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/docs/index.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.514Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/docs/front-matter.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.513Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/docs/helpers.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.513Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/docs/generating.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.513Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/docs/configuration.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.512Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/docs/deployment.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.512Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/docs/data-files.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.512Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/docs/contributing.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.512Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/api/themes.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.511Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/docs/asset-folders.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.511Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/docs/commands.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.511Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/api/tag.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.510Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/api/router.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.510Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/api/scaffolds.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.510Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/api/rendering.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.510Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/api/renderer.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.509Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/api/posts.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.509Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/api/processor.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.509Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/api/helper.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.508Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/api/migrator.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.508Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/api/index.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.508Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/api/locals.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.508Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/api/deployer.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.507Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/api/events.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.507Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/api/filter.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.507Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/api/generator.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.507Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/api/console.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.506Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/ko/api/box.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.506Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/index.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.506Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/docs/writing.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.502Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/docs/variables.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.501Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/docs/templates.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.501Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/docs/themes.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.501Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/docs/troubleshooting.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.501Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/docs/server.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.500Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/docs/setup.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.500Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/docs/tag-plugins.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.500Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/docs/plugins.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.500Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/docs/index.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.499Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/docs/internationalization.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.499Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/docs/permalinks.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.499Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/docs/helpers.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.499Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/docs/migration.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.499Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/docs/generating.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.498Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/docs/front-matter.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.498Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/docs/configuration.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.497Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/docs/deployment.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.497Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/docs/data-files.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.497Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/docs/contributing.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.497Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/docs/commands.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.496Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/docs/asset-folders.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.496Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/api/themes.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.496Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/api/router.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.495Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/api/tag.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.495Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/api/scaffolds.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.495Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/api/posts.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.494Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/api/processor.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.494Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/api/rendering.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.494Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/api/renderer.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.494Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/api/migrator.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.493Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/api/index.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.493Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/api/locals.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.493Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/api/helper.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.492Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/api/generator.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.492Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/api/deployer.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.492Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/api/filter.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.492Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/api/events.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.492Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/about/index.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.491Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/api/box.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.491Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/api/console.html</loc>
+    
+    <lastmod>2018-05-22T23:55:53.491Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/news/2015/03/05/hexo-3-0-released/</loc>
+    
+    <lastmod>2018-05-22T23:55:53.490Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/news/2016/02/28/hexo-3-2-released/</loc>
+    
+    <lastmod>2018-05-22T23:55:53.490Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/news/2015/02/27/new-documentation-and-registry/</loc>
+    
+    <lastmod>2018-05-22T23:55:53.489Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/news/2014/07/13/hexo-2-8-released/</loc>
+    
+    <lastmod>2018-05-22T23:55:53.479Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://wext.cc/news/2014/06/14/hexo-2-7-released/</loc>
+    
+    <lastmod>2018-05-22T23:55:53.478Z</lastmod>
+    
+  </url>
+  
+</urlset>
